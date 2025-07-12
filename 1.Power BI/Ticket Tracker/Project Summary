@@ -1,0 +1,45 @@
+📊 Ticket Tracker Power BI Dashboard
+
+This Power BI report provides a centralized and dynamic view of ticket management performance, focusing on SLA adherence, team productivity, and detailed employee ticket tracking. 
+Designed for operations, IT support, and service delivery teams, the dashboard aids in efficient decision-making and process improvement.
+
+🔧 Key Features:
+  . Real-time KPI tracking: total tickets, open/closed, SLA breached, and average response time.
+  . Detailed SLA monitoring dashboards.
+  . Interactive filters by date, priority, status, and employee.
+  . Drill-through functionality for granular insights.
+  . Team and individual-level tracking for accountability.
+
+
+📄 Report Pages Overview:
+  📚 INDEX
+    . Serves as a navigation panel or contents overview.
+    . Includes quick links/buttons to each report page.
+    . May contain project objectives, data source notes, or user instructions.
+    . Purpose: Easy navigation and understanding of report flow.
+
+  📌 Ticket Tracker (Overall)
+    . Displays global KPIs: Total tickets, Closed, Open, In Progress, and SLA Breaches.
+    . Trend visuals showing ticket inflow/outflow over time.
+    . Pie/Bar charts for ticket type, priority, and current status distribution.
+    . Purpose: Provide a top-level summary of all ticket activity and trends.
+
+  ⏰ SLA Breached - 1
+    . Highlights tickets that have breached SLA timelines.
+    . Visuals categorized by priority (High, Medium, Low), teams, or assignees.
+    . May include date range and status filters.
+    . Purpose: To quickly identify risk areas and support backlog resolution.
+
+  ⏰ SLA Breached - 2
+    . A continuation or deeper dive of SLA Breached - 1.
+    . Might include ticket ID–level detail, agent-specific breach analysis, or resolution delay reasons.
+    . Could offer trend analysis over time.
+    . Purpose: Further investigation and pattern analysis of SLA breaches.
+
+
+👨‍💻 Employee Ticket Tracking Update:
+  . Shows ticket metrics by individual employees/agents.
+  . Metrics include number of tickets handled, resolution time, and SLA success rate.
+  . Leaderboard-style visuals may be present to track performance.
+Purpose: Measure individual accountability and support resource planning or rewards.
+
